@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  get:
+  iconsax: ^0.0.8
 
 dev_dependencies:
   flutter_test:
