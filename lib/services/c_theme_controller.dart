@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 
 /// #151515 almost black
 /// #1A1A1A almost black 2
